@@ -1,2 +1,1 @@
-hello word
-this is to cold
+zyntro soft
